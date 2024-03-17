@@ -6,3 +6,4 @@ for i in range(9):
                 print("{:d}{:d}".format(i, b), end=", ")
             else:
                 print("{:d}{:d}".format(i, b))
+print()
